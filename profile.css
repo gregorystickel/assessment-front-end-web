@@ -1,0 +1,38 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F5CCE8;
+}
+
+header {
+    background-color: #4A2040;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+section {
+    background-color: #9F6BA0;
+    width: 80%;
+    
+    
+}
+
+footer {
+    background-color: #C880B7;
+    width: 100%;
+    text-align: center;
+}
+
+.btn {
+    background-color: yellow;
+    width: 20%;
+    height: 30px;
+}
